@@ -1,0 +1,90 @@
+body
+{
+margin:0px;
+padding:0px;	
+background-color: #3EF3C3;
+}
+h1
+{
+	background-color:#8471C2;
+	color:white;
+	width:800px;
+	margin:0 auto;
+	text-align:center;
+	margin-top:10px;
+}
+hr
+{
+	width:800px;
+	margin:0 auto;
+	margin-top:5px;
+}
+.akshay1
+{
+	background-color:#FF0000;
+	width:800px;
+	margin:0 auto;
+	
+}
+.akshay2 li
+{
+	display:inline-block;
+	padding:10px 0;
+	width:19%;
+	font-size:20px;
+	text-align:center;
+	list-style-type:none;
+}
+a
+{
+	color:white;
+	text-decoration:none;
+}
+a:hover
+{
+	display:block;
+	background-color:white;
+	color:black;
+}
+.akshay3
+{
+	width:800px;
+	margin:0 auto;
+	margin-bottom:10px;
+	margin-top:10px;
+}
+.akshay4,.akshay5,.akshay6
+{
+	float:left;
+	width:235px;
+	height:250px;
+	padding:12px;
+	border:1px solid black;
+	border-radius:1em;
+	text-align:justify;
+	background-color:yellow;
+}
+.akshay5
+{
+	margin:0 5px;
+}
+h3
+{
+	text-align:center;
+	text-decoration:none;
+}
+.akshay7
+{
+	width:800px;
+	margin: 0 auto;
+	text-align:justify;
+	color:black;
+}
+footer
+{
+	width:800px;
+	margin:0 auto;
+	background-color:#D710F5;
+	text-align:center;
+	margin-bottom:10px;
+}
